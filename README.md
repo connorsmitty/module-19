@@ -1,13 +1,13 @@
 # module-19
 
-#The-User-Story  
+## The-User-Story  
 
 AS A developer
 I WANT to create notes or code snippets with or without an internet connection
 SO THAT I can reliably retrieve them for later use
 
 
-##The-Acceptance-Criteria 
+## The-Acceptance-Criteria 
 
 GIVEN a text editor web application
 WHEN I open my application in my editor
@@ -35,7 +35,7 @@ THEN I should have my static assets pre cached upon loading along with subsequen
 WHEN I deploy to Render
 THEN I should have proper build scripts for a webpack application
 
-##Personal-Notes
+## Personal-Notes
 
 For this assignment I have really struggled with figuring out / problem solving how to complete different tasks and functions. 
 
